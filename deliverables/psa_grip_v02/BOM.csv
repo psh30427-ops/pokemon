@@ -1,0 +1,13 @@
+part,qty,specification,estimated_g,status
+01_open_cradle,1,PETG prototype,49.36,PRINT
+02_top_gate,1,PETG prototype,8.17,PRINT
+03_grip_mount_plate,1,PETG prototype,7.09,PRINT
+04_phone_base_adapter,1,PETG prototype,7.09,PRINT
+Existing case + slab,1,86x142x11 magnetic front/back closure,120,NOT PRINTED / mass assumed
+Purchased pop-up grip,1,D38; folded6/open22; two flat end mounting faces,15,NOT SELECTED; drawing envelope only
+MagSafe compatible module,1,D56x2 envelope,18,NOT SELECTED; base connection unqualified
+Frame/plate bolts,4,"M3 button head height<=1.8, head D<=6.2; approx M3x10 with nyloc",,CONFIRM STACK
+Gate bolts,2,M3x12 + washers/nyloc nuts,,CONFIRM STACK
+Pads + hardware,1,Soft liner .6 free / .4 compressed target,10,ASSUMED mass; case adhesive forbidden
+Manufacturer approved grip attachment,2,To new adapter plates only; mechanical/prequalified adhesive interfaces,,TBD PURCHASE MODULE
+Phone tether,1,Independent phone-case tether point,,REQUIRED FOR DUMMY TEST

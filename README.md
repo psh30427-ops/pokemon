@@ -1,6 +1,28 @@
 # pokemon
 
-## 3D 프린트 전달용 패키지
+## 최신 디자인 V02 — 참고 이미지 반영
+
+기존 알루미늄 보호케이스 **86×142×11mm**를 유지하고, 아이보리 측면 레일·둥근 후면 림·개방형 프레임·중앙 원형 팝업 그립 형태로 변경했습니다. V01 파일은 보존했습니다.
+
+**원형 팝업 기구와 자석은 아직 선정되지 않은 구매품의 가정 외형입니다.** 접힘28.4 / 펼침44.4mm는 구매품 가정에 따른 값이며 실측·성능 보증이 아닙니다. 출력품 4개만으로 완성품이 되지 않고 구매품 체결을 확정해야 합니다. 회색 부분은 기존 알루미늄 케이스의 크기 확인용 외형이며 카드 이미지는 생략했습니다.
+
+펼친 상태 전면:
+
+![V02 전면](deliverables/psa_grip_v02/renders/front_deployed.png)
+
+중앙 원형 그립과 개방형 후면:
+
+![V02 후면](deliverables/psa_grip_v02/renders/rear_deployed.png)
+
+- [V02 전체 파일 ZIP 다운로드](https://github.com/psh30427-ops/pokemon/raw/refs/heads/main/deliverables/psa_grip_v02.zip)
+- [V02 A3 도면 PDF — 6장](deliverables/psa_grip_v02/drawings/PSA_grip_V02_A3.pdf)
+- [V02 프레임·어댑터 출력용 STL 4개](deliverables/psa_grip_v02/STL_PRINT)
+- [V02 FreeCAD 원본](deliverables/psa_grip_v02/assembly.FCStd)
+- [V02 조립 STEP](deliverables/psa_grip_v02/assembly.step)
+- [V02 설명 및 실행 방법](deliverables/psa_grip_v02/README_ko.md)
+- [V02 검증 보고서](deliverables/psa_grip_v02/validation_report_ko.md)
+
+## V01 프린트 전달용 패키지 — 이전 설계
 
 프린터 모델이 아직 없어도 아래 ZIP을 출력 업체에 전달해 시제품 견적·출력을 검토할 수 있습니다.
 
