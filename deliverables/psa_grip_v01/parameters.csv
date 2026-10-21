@@ -1,0 +1,38 @@
+parameter,value,unit,status,source
+case_w,86.0,mm,SELLER_DECLARED,User seller image
+case_h,142.0,mm,SELLER_DECLARED,User seller image
+case_t,11.0,mm,SELLER_DECLARED,User seller image
+clear_xy,1.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+back,3.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+outer_wall,3.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+pad_z_compressed,0.6,mm,ASSUMED,Engineering assumption; measure before manufacture
+pad_xy_compressed,0.6,mm,ASSUMED,Engineering assumption; measure before manufacture
+pad_free,0.8,mm,ASSUMED,Engineering assumption; measure before manufacture
+z_free_clearance,0.6,mm,ASSUMED,Engineering assumption; measure before manufacture
+lip,2.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+lip_overlap,2.5,mm,ASSUMED,Engineering assumption; measure before manufacture
+arm_length,32.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+arm_width,18.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+arm_thickness,8.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+hinge_d,4.3,mm,ASSUMED,Engineering assumption; measure before manufacture
+lock_d,3.3,mm,ASSUMED,Engineering assumption; measure before manufacture
+gate_d,3.4,mm,ASSUMED,Engineering assumption; measure before manufacture
+pivot_z,-6.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+lock_r,8.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+phone_w,71.5,mm,ASSUMED,Engineering assumption; measure before manufacture
+phone_h,149.6,mm,ASSUMED,Engineering assumption; measure before manufacture
+phone_t,8.25,mm,ASSUMED,Engineering assumption; measure before manufacture
+phone_mass,199.0,g,ASSUMED,Engineering assumption; measure before manufacture
+phone_case_t,1.5,mm,ASSUMED,Engineering assumption; measure before manufacture
+camera_w,38.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+camera_h,38.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+camera_projection,4.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+camera_x,-15.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+camera_y,52.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+payload_mass,120.0,g,ASSUMED,Engineering assumption; measure before manufacture
+module_mass,18.0,g,ASSUMED,Engineering assumption; measure before manufacture
+petg_density,1.27,g/cm3,ASSUMED,Engineering assumption; measure before manufacture
+mag_module_d,56.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+mag_module_t,2.0,mm,ASSUMED,Engineering assumption; measure before manufacture
+phone_case_mass,25.0,g,ASSUMED,Engineering assumption; measure before manufacture
+hardware_and_liner_mass,15.0,g,ASSUMED,Engineering assumption; measure before manufacture

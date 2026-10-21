@@ -1,0 +1,14 @@
+id,description,qty,material/spec,estimated_g,status
+01_cradle,01_cradle,1,PETG; 1.27 g/cm3 solid equivalent,88.7,PRINT PROTOTYPE
+02_top_gate,02_top_gate,1,PETG; 1.27 g/cm3 solid equivalent,8.75,PRINT PROTOTYPE
+03_link,03_link,1,PETG; 1.27 g/cm3 solid equivalent,6.14,PRINT PROTOTYPE
+04_base_adapter,04_base_adapter,1,PETG; 1.27 g/cm3 solid equivalent,18.86,PRINT PROTOTYPE
+P01,Existing case + PSA slab,1,86x142x11 Al alloy seller envelope,120,ASSUMED mass
+P02,M4 pivot bolt,2,M4 x 50 + nyloc nut + washers,,Measure grip length; no thread in bearing if possible
+P03,Upper hinge locking pin,1,"3 mm steel retained pin, >=40 mm usable",,ASSUMED; positive retained pin
+P04,Gate bolt + nyloc nut,2,M3 x 12 + broad washers,,ASSUMED; verify engagement
+P05,Hinge shims,4,1.5 mm stack each cheek side; adjust,,FIT TO MEASURED PRINT
+P06,Liner strips,1,0.8 mm soft silicone/TPU; compressed 0.6,,Retain without adhesive on case
+P07,Commercial magnetic module,1,"Envelope D56x2, mass18g; unqualified",18,INTERFACE NOT RELEASED
+P08,Independent phone tether,1,Loop routed to phone case tether anchor,,REQUIRED FOR DUMMY TEST
+P09,Base fasteners,4,M3 through hole pattern R21 at cardinal points,,UNMATCHED TO PURCHASE MODULE

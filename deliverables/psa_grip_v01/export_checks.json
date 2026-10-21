@@ -1,0 +1,27 @@
+{
+  "assembly_step_solids": 4,
+  "fcstd_valid_features": 8,
+  "01_cradle": {
+    "step_solid": true,
+    "stl_closed": true,
+    "max_bounds_error_mm": 7.629394538355427e-07
+  },
+  "02_top_gate": {
+    "step_solid": true,
+    "stl_closed": true,
+    "max_bounds_error_mm": 7.629394538355427e-07
+  },
+  "03_link": {
+    "step_solid": true,
+    "stl_closed": true,
+    "max_bounds_error_mm": 0.00124359130859375
+  },
+  "04_base_adapter": {
+    "step_solid": true,
+    "stl_closed": true,
+    "max_bounds_error_mm": 0.00932455062866211
+  },
+  "pdf_pages": 7,
+  "pdf_size": "A3",
+  "required_text_present": true
+}

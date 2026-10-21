@@ -1,0 +1,147 @@
+{
+  "parts": {
+    "01_cradle": {
+      "valid": true,
+      "solids": 1,
+      "closed": true,
+      "volume_mm3": 69841.82926275616,
+      "step_valid": true,
+      "step_volume_delta": 1.4551915228366852e-11,
+      "stl_solid": true,
+      "stl_facets": 5180,
+      "bounds_mm": [
+        94.0,
+        154.0,
+        35.7
+      ]
+    },
+    "02_top_gate": {
+      "valid": true,
+      "solids": 1,
+      "closed": true,
+      "volume_mm3": 6886.150641363959,
+      "step_valid": true,
+      "step_volume_delta": 4.547473508864641e-12,
+      "stl_solid": true,
+      "stl_facets": 1036,
+      "bounds_mm": [
+        94.0,
+        7.5,
+        14.2
+      ]
+    },
+    "03_link": {
+      "valid": true,
+      "solids": 1,
+      "closed": true,
+      "volume_mm3": 4836.032502760815,
+      "step_valid": true,
+      "step_volume_delta": 0.0,
+      "stl_solid": true,
+      "stl_facets": 2032,
+      "bounds_mm": [
+        18.0,
+        39.99751345600653,
+        8.0
+      ]
+    },
+    "04_base_adapter": {
+      "valid": true,
+      "solids": 1,
+      "closed": true,
+      "volume_mm3": 14852.114115961758,
+      "step_valid": true,
+      "step_volume_delta": 0.0,
+      "stl_solid": true,
+      "stl_facets": 3580,
+      "bounds_mm": [
+        60.0,
+        59.98135092004898,
+        21.5
+      ]
+    }
+  },
+  "interferences": [],
+  "mass_g_solid_equivalent": {
+    "01_cradle": 88.69912316370034,
+    "02_top_gate": 8.745411314532229,
+    "03_link": 6.141761278506235,
+    "04_base_adapter": 18.862184927271432
+  },
+  "assembly_mass_COM": {
+    "0": {
+      "total_mass_g": 499.44848068401024,
+      "COM_mm": [
+        1.2572226529707623e-15,
+        16.900563869680592,
+        -12.291168135415205
+      ]
+    },
+    "60": {
+      "total_mass_g": 499.44848068401024,
+      "COM_mm": [
+        1.1495860930373666e-15,
+        8.44381347909041,
+        -26.938689478845347
+      ]
+    },
+    "90": {
+      "total_mass_g": 499.44848068401024,
+      "COM_mm": [
+        1.195063575172871e-15,
+        -0.012936911499772968,
+        -29.20466891659557
+      ]
+    }
+  },
+  "assumed_camera_only": true,
+  "sweep_samples_deg": [
+    0,
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50,
+    55,
+    60,
+    65,
+    70,
+    75,
+    80,
+    85,
+    90
+  ],
+  "stand_candidate": {
+    "tilt_deg": 73.75528394217139,
+    "support_polygon_xy_mm": [
+      [
+        -47.0,
+        -21.540016570582733
+      ],
+      [
+        47.0,
+        -21.540016570582733
+      ],
+      [
+        35.75,
+        43.52028621088756
+      ],
+      [
+        -35.75,
+        43.52028621088756
+      ]
+    ],
+    "COM_mm": [
+      1.1495860930373666e-15,
+      28.22525638628334,
+      74.49668355179216
+    ],
+    "projection_inside_polygon": true,
+    "NOTE": "Rigid reference geometry only; lower hinge friction NOT qualified."
+  }
+}
