@@ -1,0 +1,50 @@
+[
+  {
+    "file": "01_cradle_PRINT_mm.stl",
+    "quantity": 1,
+    "footprint_x_mm": 35.7,
+    "footprint_y_mm": 154.0,
+    "height_mm": 94.0,
+    "material": "PETG prototype",
+    "closed_stl": true,
+    "relative_volume_error": 1.1057839578048164e-05,
+    "rotation_axis": "(0, 1, 0)",
+    "rotation_deg": 90
+  },
+  {
+    "file": "02_top_gate_PRINT_mm.stl",
+    "quantity": 1,
+    "footprint_x_mm": 94.0,
+    "footprint_y_mm": 14.2,
+    "height_mm": 7.5,
+    "material": "PETG prototype",
+    "closed_stl": true,
+    "relative_volume_error": 1.5563286604950835e-05,
+    "rotation_axis": "(1, 0, 0)",
+    "rotation_deg": 90
+  },
+  {
+    "file": "03_link_PRINT_mm.stl",
+    "quantity": 1,
+    "footprint_x_mm": 8.0,
+    "footprint_y_mm": 40.0,
+    "height_mm": 18.0,
+    "material": "PETG prototype",
+    "closed_stl": true,
+    "relative_volume_error": 1.9745740337883027e-05,
+    "rotation_axis": "(0, 1, 0)",
+    "rotation_deg": 90
+  },
+  {
+    "file": "04_base_adapter_PRINT_mm.stl",
+    "quantity": 1,
+    "footprint_x_mm": 60.0,
+    "footprint_y_mm": 60.0,
+    "height_mm": 21.5,
+    "material": "PETG prototype",
+    "closed_stl": true,
+    "relative_volume_error": 0.000305081695028762,
+    "rotation_axis": "(0, 0, 1)",
+    "rotation_deg": 0
+  }
+]

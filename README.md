@@ -1,5 +1,17 @@
 # pokemon
 
+## 3D 프린트 전달용 패키지
+
+프린터 모델이 아직 없어도 아래 ZIP을 출력 업체에 전달해 시제품 견적·출력을 검토할 수 있습니다.
+
+- **[프린트 전달용 ZIP 다운로드](https://github.com/psh30427-ops/pokemon/raw/refs/heads/main/deliverables/psa_grip_print_v01.zip)**
+- [출력 의뢰서 PDF — 먼저 읽기](deliverables/psa_grip_print_v01/01_PRINT_ORDER_ko.pdf)
+- [출력용 STL 4개](deliverables/psa_grip_print_v01/STL_PRINT)
+- [부품별 A3 도면](deliverables/psa_grip_print_v01/PDF_DRAWINGS)
+- [패키지 사용 안내](deliverables/psa_grip_print_v01/README_ko.md)
+
+각 부품 1개, 단위 mm, 배율100%. STL은 제안 출력 방향과 Z=0으로 정리되어 있습니다. 장비별 서포트와 출력 방향은 출력 업체가 확인해야 합니다. PDF는 참고 도면이며 프린터 입력 파일은 STL입니다. 기종이 미정이라 G-code는 포함하지 않았습니다. **실측·실물 시험 전 예비 시제품이며 자석 모듈 체결 규격은 아직 미확정입니다.**
+
 ## PSA 보호케이스 그립 — 예비 시제품 V01
 
 실제 PSA 보호케이스 전체를 손잡이로 사용하는 접이식 스마트폰 액세서리의 CAD 및 도면입니다.

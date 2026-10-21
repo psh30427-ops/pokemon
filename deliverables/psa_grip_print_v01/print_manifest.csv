@@ -1,0 +1,5 @@
+file,quantity,footprint_x_mm,footprint_y_mm,height_mm,material,closed_stl,relative_volume_error,rotation_axis,rotation_deg
+01_cradle_PRINT_mm.stl,1,35.7,154.0,94.0,PETG prototype,True,1.1057839578048164e-05,"(0, 1, 0)",90
+02_top_gate_PRINT_mm.stl,1,94.0,14.2,7.5,PETG prototype,True,1.5563286604950835e-05,"(1, 0, 0)",90
+03_link_PRINT_mm.stl,1,8.0,40.0,18.0,PETG prototype,True,1.9745740337883027e-05,"(0, 1, 0)",90
+04_base_adapter_PRINT_mm.stl,1,60.0,60.0,21.5,PETG prototype,True,0.000305081695028762,"(0, 0, 1)",0
