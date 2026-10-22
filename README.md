@@ -13,6 +13,14 @@
 
 자석·접착 유지력/실물 출력·강도·거치는 미검증입니다. A안은 게이트 돌출 포함 접힘약35.5/펼침63.5mm, B안은약40.5/68.5mm의 큰 시제품 기구입니다. 최종값과가정은 보고서를 확인하세요. 주름형 소형 상용그립과 같은 두께라고 주장하지 않습니다.
 
+### 완성품 예상 이미지
+
+[**이미지 크게 보기**](deliverables/psa_grip_v02/product_visualization/finished_product_concept.png)
+
+![완성품 예상 이미지](deliverables/psa_grip_v02/product_visualization/finished_product_concept.png)
+
+위 이미지는 AI 제품 시각화이며 실제 CAD 렌더링/제작 도면이 아닙니다. 아래 CAD 렌더링과 구분해 주세요.
+
 ### 미리보기
 
 A안 투톤, 카드 앞면이 바깥쪽을 향한 폰 장착:
