@@ -1,0 +1,36 @@
+{
+  "variant": "aluminum_case",
+  "purchased_popup_selected": false,
+  "mechanism_is_reference_envelope_only": true,
+  "parts": {
+    "01_Frame_With_Integral_Round_Pad": {
+      "valid_solid": true,
+      "stl_closed": true,
+      "volume_mm3": 49055.36936062779,
+      "step_volume_error_mm3": 0.0,
+      "stl_relative_volume_error": 3.5240497631965774e-05
+    },
+    "02_Magnetic_Gate": {
+      "valid_solid": true,
+      "stl_closed": true,
+      "volume_mm3": 6704.076468111623,
+      "step_volume_error_mm3": 0.0,
+      "stl_relative_volume_error": 6.729326528596231e-06
+    },
+    "03_Adhesive_Phone_Base": {
+      "valid_solid": true,
+      "stl_closed": true,
+      "volume_mm3": 4523.893421169302,
+      "step_volume_error_mm3": 0.0,
+      "stl_relative_volume_error": 0.0004149761529012698
+    }
+  },
+  "sampled_envelope_interferences": [],
+  "payload_insertion_interferences": [],
+  "folded_thickness_assumed_mm": 31.9,
+  "expanded_thickness_assumed_mm": 47.9,
+  "physical_tests_run": false,
+  "OEM_internal_mechanism_validated": false,
+  "stock_mechanism_stl_exported": false,
+  "adhesive_strength_verified": false
+}

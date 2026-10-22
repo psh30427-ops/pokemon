@@ -1,0 +1,152 @@
+{
+  "variant": "direct_slab",
+  "payload_mm": [
+    81.0,
+    136.0,
+    6.0
+  ],
+  "payload_status": "ASSUMED, NOT MEASURED",
+  "parts": {
+    "01_Main_Frame": {
+      "valid_solid": true,
+      "quantity": 1,
+      "volume_mm3": 36975.72899760635,
+      "mass_solid_equiv_g": 46.95917582696006,
+      "step_volume_error_mm3": 2.1827872842550278e-11,
+      "stl_closed": true,
+      "print_bounds_mm": [
+        11.700000000000015,
+        145.8,
+        106.6
+      ],
+      "stl_relative_volume_error": 1.1238010849748278e-05
+    },
+    "02_Locking_Gate": {
+      "valid_solid": true,
+      "quantity": 1,
+      "volume_mm3": 5014.076468111625,
+      "mass_solid_equiv_g": 6.3678771145017645,
+      "step_volume_error_mm3": 9.094947017729282e-13,
+      "stl_closed": true,
+      "print_bounds_mm": [
+        106.6,
+        11.200000000000006,
+        17.700000000000003
+      ],
+      "stl_relative_volume_error": 7.049811635221225e-06
+    },
+    "03_Grip_Connector": {
+      "valid_solid": true,
+      "quantity": 1,
+      "volume_mm3": 19605.00980589938,
+      "mass_solid_equiv_g": 24.89836245349221,
+      "step_volume_error_mm3": 7.275957614183426e-12,
+      "stl_closed": true,
+      "print_bounds_mm": [
+        44.0,
+        96.0,
+        15.50000000000001
+      ],
+      "stl_relative_volume_error": 1.6734739174794306e-05
+    },
+    "04_Collapsible_Grip": {
+      "valid_solid": true,
+      "quantity": 2,
+      "volume_mm3": 4502.484915801606,
+      "mass_solid_equiv_g": 5.71815584306804,
+      "step_volume_error_mm3": 0.0,
+      "stl_closed": true,
+      "print_bounds_mm": [
+        8.000000000000005,
+        35.99751345600653,
+        18.0
+      ],
+      "stl_relative_volume_error": 4.4366512124189805e-05
+    },
+    "05_Phone_Base": {
+      "valid_solid": true,
+      "quantity": 1,
+      "volume_mm3": 16570.284941122867,
+      "mass_solid_equiv_g": 21.04426187522604,
+      "step_volume_error_mm3": 0.0,
+      "stl_closed": true,
+      "print_bounds_mm": [
+        64.0,
+        64.0,
+        17.5
+      ],
+      "stl_relative_volume_error": 5.29112795457009e-06
+    },
+    "06_TPU_Side_Liner": {
+      "valid_solid": true,
+      "quantity": 2,
+      "volume_mm3": 660.0,
+      "mass_solid_equiv_g": 0.792,
+      "step_volume_error_mm3": 0.0,
+      "stl_closed": true,
+      "print_bounds_mm": [
+        6.0,
+        110.0,
+        1.0000000000000007
+      ],
+      "stl_relative_volume_error": 0.0
+    }
+  },
+  "sample_angles_deg": [
+    0,
+    5,
+    10,
+    15,
+    20,
+    25,
+    30,
+    35,
+    40,
+    45,
+    50,
+    55,
+    60,
+    65,
+    70,
+    75,
+    80,
+    85,
+    90
+  ],
+  "body_interferences": [],
+  "hardware_interferences": [],
+  "gate_open_sweep_interferences": [],
+  "payload_insertion_interferences": [],
+  "gate_blocks_on_each_end_wall_mm3": [
+    55.99999999999999,
+    55.99999999999999
+  ],
+  "COM_states": {
+    "0": {
+      "mass_g": 419.70598895631616,
+      "COM_mm": [
+        1.78909033907395e-15,
+        17.69270732286768,
+        -14.228671391440948
+      ]
+    },
+    "90": {
+      "mass_g": 419.70598895631616,
+      "COM_mm": [
+        1.2347953676187294e-15,
+        0.9564931696273818,
+        -30.964885544681245
+      ]
+    }
+  },
+  "frame_size_mm": [
+    106.6,
+    147.8,
+    14.5
+  ],
+  "folded_thickness_with_gate_mm": 35.5,
+  "open_thickness_with_gate_mm": 63.5,
+  "physical_tests": false,
+  "stand_validated": false,
+  "magnetic_attachment_validated": false
+}

@@ -1,0 +1,10 @@
+part,qty,status
+01_Frame_With_Integral_Round_Pad,1,PETG PRINT
+02_Magnetic_Gate,1,PETG PRINT
+03_Adhesive_Phone_Base,1,PETG PRINT
+Commercial circular popup,1,"UNSELECTED, end-cap D40/D38 height6/22 assumed; NOT PRINTED"
+OEM-approved top attachment,1,"D38x0.2 assumed, vendor qualification REQUIRED"
+OEM-approved lower attachment,1,"D36x0.2 assumed, vendor qualification REQUIRED"
+Phone-case compatible adhesive,1,D46x1 assumed; cure/prep/peel test REQUIRED
+Gate magnets D5x2,4,UNQUALIFIED vendor/force; preserve magnetic gate
+Soft liners,1,"Existing magnetic frame pad design reused, fit test REQUIRED"

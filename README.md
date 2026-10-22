@@ -1,6 +1,27 @@
 # pokemon
 
-## 최신 V02 — 자석 교체 게이트 + 접착식 폰 베이스, 두 가지 수납안
+## 최신 수정 — 중앙 원형 팝업 연결부
+
+노출된 두 링크와 회전축 브래킷을 제거하고, 프레임 뒷면 중앙의 원형 연결면 → 상용 원형 팝업 → 원형 접착 베이스로 변경했습니다. 상단 자석 게이트, 카드 앞면 바깥 방향, 폰 케이스 접착 방식은 유지합니다.
+
+**[수정한 완성품 예상 이미지 크게 보기](deliverables/psa_grip_v02/circular_popup_revision/finished_product_circular_concept.png)**
+
+![원형 팝업 수정 예상 이미지](deliverables/psa_grip_v02/circular_popup_revision/finished_product_circular_concept.png)
+
+위 사진은 AI 제품 시각화로 CAD 치수·세부와 다를 수 있습니다. 아래는 실제 수정 CAD와 구분되는 자료입니다.
+
+- [원형 팝업 수정안 설명](deliverables/psa_grip_v02/circular_popup_revision/README_ko.md)
+- [실제 CAD 기반 후면 렌더링](deliverables/psa_grip_v02/circular_popup_revision/renders/silver_rear_open.png)
+- [슬랩 직접 수납형 수정 CAD·STEP](deliverables/psa_grip_v02/circular_popup_revision/CAD)
+- [알루미늄 보호케이스형 수정 CAD·STEP](deliverables/psa_grip_v02/circular_popup_revision/variants/aluminum_case/CAD)
+- [원형 수정안 도면 PDF](deliverables/psa_grip_v02/circular_popup_revision/drawings/Circular_Popup_Revision_A3.pdf)
+- [원형 수정안 ZIP 다운로드](https://github.com/psh30427-ops/pokemon/raw/refs/heads/main/deliverables/psa_grip_circular_popup_revision.zip)
+
+팝업은 **구매품 규격 미선정인 외형 참고 모델**입니다. 주름 기구의 STL은 제공하지 않으며, 새 프레임·게이트·원형 폰 베이스만 출력합니다. OEM 부품과 접착면을 선정/실측/시험한 뒤 연결부를 확정해야 합니다. 현재 가정으로 A안 접힘26.9/펼침42.9mm, B안31.9/47.9mm. 실물 강도·팝업 작동·접착 유지력 미검증.
+
+이전 링크형 CAD와 이미지는 아래에 보존했습니다.
+
+## 이전 링크형 V02 — 자석 교체 게이트 + 접착식 폰 베이스, 두 가지 수납안
 
 **이번 V02는 실제 링크/축/자석 포켓을 설계한 예비 시제품입니다. 실측 및 실물 시험 전 제작 확정 금지.**
 

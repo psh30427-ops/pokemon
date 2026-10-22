@@ -1,0 +1,15 @@
+{
+  "integral_mount_d": 44.0,
+  "integral_mount_t": 2.5,
+  "popup_upper_cap_d": 40.0,
+  "popup_lower_cap_d": 38.0,
+  "popup_closed_h": 6.0,
+  "popup_open_h": 22.0,
+  "popup_attachment_film_t": 0.2,
+  "phone_base_d": 48.0,
+  "phone_base_t": 2.5,
+  "phone_adhesive_t": 1.0,
+  "phone_w": 71.5,
+  "phone_h": 149.6,
+  "phone_t_with_case": 9.75
+}
