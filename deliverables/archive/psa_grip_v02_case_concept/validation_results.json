@@ -1,0 +1,100 @@
+{
+  "gate_bolt_min_edge_ligament_mm": 0.8,
+  "parts": {
+    "01_open_cradle": {
+      "valid": true,
+      "solid_count": 1,
+      "stl_closed": true,
+      "volume_mm3": 38868.9537680705,
+      "step_volume_error_mm3": 5.820766091346741e-11,
+      "print_size_mm": [
+        16.400000000000006,
+        154.0,
+        94.0
+      ],
+      "mass_solid_equiv_g": 49.36357128544954
+    },
+    "02_top_gate": {
+      "valid": true,
+      "solid_count": 1,
+      "stl_closed": true,
+      "volume_mm3": 6430.677365794171,
+      "step_volume_error_mm3": 8.185452315956354e-12,
+      "print_size_mm": [
+        94.0,
+        13.400000000000006,
+        7.5
+      ],
+      "mass_solid_equiv_g": 8.166960254558598
+    },
+    "03_grip_mount_plate": {
+      "valid": true,
+      "solid_count": 1,
+      "stl_closed": true,
+      "volume_mm3": 5582.233154310632,
+      "step_volume_error_mm3": 0.0,
+      "print_size_mm": [
+        60.0,
+        59.98135092004898,
+        2.0
+      ],
+      "mass_solid_equiv_g": 7.089436105974503
+    },
+    "04_phone_base_adapter": {
+      "valid": true,
+      "solid_count": 1,
+      "stl_closed": true,
+      "volume_mm3": 5582.233154310632,
+      "step_volume_error_mm3": 0.0,
+      "print_size_mm": [
+        60.0,
+        59.98135092004898,
+        2.0
+      ],
+      "mass_solid_equiv_g": 7.089436105974503
+    }
+  },
+  "interferences": [],
+  "sampled_grip_extension_mm": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "assembly_COM": {
+    "6": {
+      "mass_g": 458.70940375195715,
+      "COM_mm": [
+        2.649067438246183e-16,
+        -0.029504094628423162,
+        -5.899409665631577
+      ]
+    },
+    "22": {
+      "mass_g": 458.70940375195715,
+      "COM_mm": [
+        2.527807395399582e-16,
+        -0.02950409462842315,
+        -14.84937001986832
+      ]
+    }
+  },
+  "folded_accessory_thickness_mm": 28.400000000000002,
+  "open_accessory_thickness_mm": 44.400000000000006,
+  "purchased_grip_design": false,
+  "magnetic_module_matched": false,
+  "physical_tests_run": false
+}

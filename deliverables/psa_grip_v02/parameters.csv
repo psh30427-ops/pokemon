@@ -1,37 +1,50 @@
 name,value,unit,status,source
-case_w,86.0,mm,SELLER_DECLARED,User seller specification
-case_h,142.0,mm,SELLER_DECLARED,User seller specification
-case_t,11.0,mm,SELLER_DECLARED,User seller specification
-clear_xy,1.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-back_t,3.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-pad_back,0.4,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-pad_top_clear,0.4,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-lip_t,1.6,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-wall_t,3.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-outer_h,154.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-rim_window_w,84.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-rim_window_h,140.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-bridge_w,60.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-bridge_h,60.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-mount_plate_d,60.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-mount_plate_t,2.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-commercial_grip_d,38.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-commercial_grip_closed,6.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-commercial_grip_open,22.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-mag_module_d,56.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-mag_module_t,2.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-phone_w,71.5,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-phone_h,149.6,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-phone_t,8.25,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-phone_case_t,1.5,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-camera_w,38.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-camera_h,38.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-camera_t,4.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-camera_x,-15.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-camera_y,52.0,mm,ASSUMED,"Design assumption, measure/qualify before manufacture"
-case_payload_g,120.0,g,ASSUMED,"Design assumption, measure/qualify before manufacture"
-phone_and_case_g,224.0,g,ASSUMED,"Design assumption, measure/qualify before manufacture"
-grip_g,15.0,g,ASSUMED,"Design assumption, measure/qualify before manufacture"
-mag_module_g,18.0,g,ASSUMED,"Design assumption, measure/qualify before manufacture"
-hardware_and_pad_g,10.0,g,ASSUMED,"Design assumption, measure/qualify before manufacture"
-petg_density,1.27,g/cm3,ASSUMED,"Design assumption, measure/qualify before manufacture"
+slab_w,81.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+slab_h,136.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+slab_t,6.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+slab_corner_r,3.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+slab_mass_g,50.0,g,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+case_w,86.0,mm,SELLER_REFERENCE_NOT_MEASURED,User seller table
+case_h,142.0,mm,SELLER_REFERENCE_NOT_MEASURED,User seller table
+case_t,11.0,mm,SELLER_REFERENCE_NOT_MEASURED,User seller table
+case_corner_r,2.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+case_mass_g,120.0,g,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+xy_clearance_per_side,0.8,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+rear_pad_compressed,0.5,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+front_pad_compressed,0.4,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+rear_t,3.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+lip_t,1.8,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+rail_t,3.2,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+gate_slot_clearance,0.3,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+gate_magnet_d,5.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+gate_magnet_t,2.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+magnet_radial_clearance,0.1,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+magnet_bond_allowance,0.2,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+link_length,28.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+link_width,18.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+link_t,8.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+fork_gap,19.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+fork_t,9.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+hinge_hole_d,3.2,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+hinge_pin_d,3.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+index_radius,6.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+station_half_spacing,25.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+base_w,64.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+base_h,64.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+base_t,3.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+base_back_z,-20.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+pivot_z,-6.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+adhesive_t,1.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+phone_w,71.5,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+phone_h,149.6,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+phone_t,8.25,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+phone_case_t,1.5,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+phone_mass_g,224.0,g,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+camera_w,38.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+camera_h,38.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+camera_t,4.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+camera_x,-15.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+camera_y,52.0,mm,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+hardware_mass_g,28.0,g,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+pad_and_adhesive_mass_g,7.0,g,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions
+petg_density,1.27,g/cm3,ASSUMED_NOT_MEASURED,Engineering assumption; no verified PSA official dimensions

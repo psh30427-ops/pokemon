@@ -1,0 +1,18 @@
+{
+  "primary": "direct_slab",
+  "variant": "variants/aluminum_case",
+  "gate": "magnetic lift-and-slide with two mechanical shoulders",
+  "phone_attachment": "adhesive to phone case; no MagSafe in primary design",
+  "grip": "two-link four-bar, 4 pivot pins and 2 index pins, locks 0/90 degrees",
+  "printed_stl_quantities": {
+    "01_Main_Frame": 1,
+    "02_Locking_Gate": 1,
+    "03_Grip_Connector": 1,
+    "04_Collapsible_Grip": 2,
+    "05_Phone_Base": 1,
+    "06_TPU_Side_Liner": 2
+  },
+  "physical_testing": "NOT PERFORMED",
+  "measurement_status": "DIRECT SLAB ASSUMED; AL CASE SELLER REFERENCE ONLY",
+  "render_image_count": 13
+}

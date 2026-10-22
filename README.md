@@ -1,26 +1,48 @@
 # pokemon
 
-## 최신 디자인 V02 — 참고 이미지 반영
+## 최신 V02 — 자석 교체 게이트 + 접착식 폰 베이스, 두 가지 수납안
 
-기존 알루미늄 보호케이스 **86×142×11mm**를 유지하고, 아이보리 측면 레일·둥근 후면 림·개방형 프레임·중앙 원형 팝업 그립 형태로 변경했습니다. V01 파일은 보존했습니다.
+**이번 V02는 실제 링크/축/자석 포켓을 설계한 예비 시제품입니다. 실측 및 실물 시험 전 제작 확정 금지.**
 
-**원형 팝업 기구와 자석은 아직 선정되지 않은 구매품의 가정 외형입니다.** 접힘28.4 / 펼침44.4mm는 구매품 가정에 따른 값이며 실측·성능 보증이 아닙니다. 출력품 4개만으로 완성품이 되지 않고 구매품 체결을 확정해야 합니다. 회색 부분은 기존 알루미늄 케이스의 크기 확인용 외형이며 카드 이미지는 생략했습니다.
+- **A안:** PSA 슬랩 직접 수납.81×136×6mm는 전부 가정값이며 실제PSA공식규격 확인값이 아닙니다.
+- **B안:** 기존 알루미늄 보호케이스 수납.86×142×11mm는 판매자 참고이며 실측이 아닙니다.
+- **카드 교체:** 고정핀 없는 자석 게이트. 바깥쪽으로 들어올리고 위로 분리. 두 자석쌍과 두 기계적 끝벽.
+- **그립:** 링크2개/회전축4개,0·90도 각도핀2개. 카드교체용 고정핀과 내부 회전축핀은 다릅니다.
+- **폰 연결:** 폰 케이스와 베이스 사이 접착식. 하부 축핀2개로 본체를 분리하면 베이스는 케이스에 남습니다.
+- **색상:** 매트 블랙 / 블랙×티타늄 실버. 실버는 필라멘트 색상입니다.
 
-펼친 상태 전면:
+자석·접착 유지력/실물 출력·강도·거치는 미검증입니다. A안은 게이트 돌출 포함 접힘약35.5/펼침63.5mm, B안은약40.5/68.5mm의 큰 시제품 기구입니다. 최종값과가정은 보고서를 확인하세요. 주름형 소형 상용그립과 같은 두께라고 주장하지 않습니다.
 
-![V02 전면](deliverables/psa_grip_v02/renders/front_deployed.png)
+### 미리보기
 
-중앙 원형 그립과 개방형 후면:
+A안 투톤, 카드 앞면이 바깥쪽을 향한 폰 장착:
 
-![V02 후면](deliverables/psa_grip_v02/renders/rear_deployed.png)
+![A안 투톤 폰 장착](deliverables/psa_grip_v02/renders/titanium_open_phone.png)
 
-- [V02 전체 파일 ZIP 다운로드](https://github.com/psh30427-ops/pokemon/raw/refs/heads/main/deliverables/psa_grip_v02.zip)
-- [V02 A3 도면 PDF — 6장](deliverables/psa_grip_v02/drawings/PSA_grip_V02_A3.pdf)
-- [V02 프레임·어댑터 출력용 STL 4개](deliverables/psa_grip_v02/STL_PRINT)
-- [V02 FreeCAD 원본](deliverables/psa_grip_v02/assembly.FCStd)
-- [V02 조립 STEP](deliverables/psa_grip_v02/assembly.step)
-- [V02 설명 및 실행 방법](deliverables/psa_grip_v02/README_ko.md)
-- [V02 검증 보고서](deliverables/psa_grip_v02/validation_report_ko.md)
+A안 매트 블랙 후면:
+
+![A안 블랙 후면](deliverables/psa_grip_v02/renders/black_rear.png)
+
+슬랩·카드/라벨은 중립적 참고표현이며 실물 치수/인증/광학 성능 증거가 아닙니다. CAD 형상에서 직접 렌더링했습니다.
+
+게이트를 연 상태:
+
+![자석 게이트 개방](deliverables/psa_grip_v02/renders/titanium_gate_open.png)
+
+### 파일 받기
+
+- **[두 안 전체 ZIP 다운로드](https://github.com/psh30427-ops/pokemon/raw/refs/heads/main/deliverables/psa_grip_v02.zip)**
+- [구조 변경 및 V01 분석](deliverables/psa_grip_v02/DESIGN_CHANGES_ko.md)
+- [A안 설명](deliverables/psa_grip_v02/README_ko.md) / [B안 설명](deliverables/psa_grip_v02/variants/aluminum_case/README_ko.md)
+- [A안 A3 제작 도면10장](deliverables/psa_grip_v02/drawings/PSA_Grip_V02_Manufacturing_A3.pdf)
+- [B안 A3 제작 도면10장](deliverables/psa_grip_v02/variants/aluminum_case/drawings/PSA_Grip_V02_Manufacturing_A3.pdf)
+- [A안 출력용 STL](deliverables/psa_grip_v02/STL_PRINT) / [B안 출력용 STL](deliverables/psa_grip_v02/variants/aluminum_case/STL_PRINT)
+- [A안 조립/출력 안내PDF](deliverables/psa_grip_v02/drawings/Assembly_and_Print_Guide_ko.pdf)
+- [A안 FreeCAD](deliverables/psa_grip_v02/PSA_Grip_V02.FCStd) / [A안 STEP](deliverables/psa_grip_v02/PSA_Grip_V02_Assembly.step)
+- [A안 검증 보고서](deliverables/psa_grip_v02/validation_report_ko.md) / [B안 검증 보고서](deliverables/psa_grip_v02/variants/aluminum_case/validation_report_ko.md)
+- [이전 아이보리 구매팝업 개념 V02 원본 보관](deliverables/archive/psa_grip_v02_case_concept)
+
+**출력 수량:**01/02/03/05 각1개,04 링크2개,06 TPU측면라이너2개. PDF는 참조 도면이고 실제 슬라이서 입력은 `STL_PRINT`입니다. 자석/금속핀/R클립/M3/심·패드/폰 접착제는 별도 구매합니다.
 
 ## V01 프린트 전달용 패키지 — 이전 설계
 

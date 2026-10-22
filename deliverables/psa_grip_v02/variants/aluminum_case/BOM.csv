@@ -1,0 +1,18 @@
+part,qty,material,notes
+01_Main_Frame,1,PETG,"Silver is filament color, not titanium"
+02_Locking_Gate,1,PETG,"Silver is filament color, not titanium"
+03_Grip_Connector,1,PETG,"Silver is filament color, not titanium"
+04_Collapsible_Grip,2,PETG,"Silver is filament color, not titanium"
+05_Phone_Base,1,PETG,"Silver is filament color, not titanium"
+06_TPU_Side_Liner,2,TPU 85-95A trial,1x110xpayload thickness; trim and tune preload
+HW_Pivot_Pins,4,Steel D3 clevis pins,"Usable grip >=39mm, cross-hole/R-clip; catalog verify"
+HW_Index_Pins,2,Steel D3 clevis pins,"Same stack as pivots, lock 0/90 degrees"
+HW_Gate_Magnets,4,Neodymium D5x2 ASSUMED,Two opposite-polarity pairs; vendor coating/temp/force unqualified
+HW_R_Clips,6,Steel,"Tool-free retention; geometry NOT modeled, fit test"
+HW_Pin_Washers,16,Steel/polymer,"Thin fit washers; stack to measure, NOT modeled"
+HW_Mount_Screws,4,M3 button head x10 trial,Head D<=6.2 H<=1.8; length/stack measure
+HW_Mount_Nuts,4,M3 nyloc + broad washers,Washers outside nut clearance; actual stack check
+HW_Axial_Shims,8,Polymer/steel,"0.5mm each link side nominal, fit to print"
+Rear/Front edge pads,1,Silicone/TPU,Rear free0.6/compressed0.5; front free0.5/compressed0.4; cut strips
+Phone adhesive film,1,Phone-case compatible structural tape/adhesive,62x62x1 envelope; material/strength NOT QUALIFIED
+Independent phone tether,1,Commercial,Phone case anchor; do not rely solely on frame tether slot

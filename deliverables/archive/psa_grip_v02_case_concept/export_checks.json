@@ -1,0 +1,51 @@
+{
+  "assembly_step_valid_solids": 4,
+  "native_valid_features": 9,
+  "01_open_cradle": {
+    "original_stl_closed": true,
+    "print_stl_closed": true,
+    "step_stl_bbox_error_mm": 3.8146972514141453e-07,
+    "print_relative_volume_error": 7.046560442013124e-05,
+    "print_bbox_mm": [
+      16.399999618530273,
+      154.0,
+      94.0
+    ]
+  },
+  "02_top_gate": {
+    "original_stl_closed": true,
+    "print_stl_closed": true,
+    "step_stl_bbox_error_mm": 3.8146972514141453e-07,
+    "print_relative_volume_error": 1.6989703163790374e-05,
+    "print_bbox_mm": [
+      94.0,
+      13.399999618530273,
+      7.5
+    ]
+  },
+  "03_grip_mount_plate": {
+    "original_stl_closed": true,
+    "print_stl_closed": true,
+    "step_stl_bbox_error_mm": 0.009325027465820312,
+    "print_relative_volume_error": 0.00041517917700953285,
+    "print_bbox_mm": [
+      60.0,
+      59.9813523394987,
+      2.0
+    ]
+  },
+  "04_phone_base_adapter": {
+    "original_stl_closed": true,
+    "print_stl_closed": true,
+    "step_stl_bbox_error_mm": 0.009325027465820312,
+    "print_relative_volume_error": 0.00041517917700953285,
+    "print_bbox_mm": [
+      60.0,
+      59.9813523394987,
+      2.0
+    ]
+  },
+  "sampled_envelope_interference_count": 0,
+  "gate_edge_ligament_mm": 0.8,
+  "a3_pdf_pages": 6
+}

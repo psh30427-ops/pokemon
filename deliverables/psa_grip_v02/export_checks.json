@@ -1,51 +1,76 @@
 {
-  "assembly_step_valid_solids": 4,
-  "native_valid_features": 9,
-  "01_open_cradle": {
-    "original_stl_closed": true,
-    "print_stl_closed": true,
-    "step_stl_bbox_error_mm": 3.8146972514141453e-07,
-    "print_relative_volume_error": 7.046560442013124e-05,
-    "print_bbox_mm": [
-      16.399999618530273,
-      154.0,
-      94.0
-    ]
+  "direct_slab": {
+    "assembly_printed_solids": 6,
+    "native_valid_features": 28,
+    "01_Main_Frame": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 3.051757815342171e-06,
+      "print_relative_volume_error": 1.1238010850338614e-05
+    },
+    "02_Locking_Gate": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 3.051757815342171e-06,
+      "print_relative_volume_error": 7.049811635402615e-06
+    },
+    "03_Grip_Connector": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 0.0,
+      "print_relative_volume_error": 1.6734739174423173e-05
+    },
+    "04_Collapsible_Grip": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 0.00124359130859375,
+      "print_relative_volume_error": 4.4366512124189805e-05
+    },
+    "05_Phone_Base": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 0.0,
+      "print_relative_volume_error": 5.29112795457009e-06
+    },
+    "06_TPU_Side_Liner": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 0.0,
+      "print_relative_volume_error": 0.0
+    },
+    "pdf_A3_pages": 10,
+    "assembly_guide_pages": 2,
+    "sampled_interferences": 0
   },
-  "02_top_gate": {
-    "original_stl_closed": true,
-    "print_stl_closed": true,
-    "step_stl_bbox_error_mm": 3.8146972514141453e-07,
-    "print_relative_volume_error": 1.6989703163790374e-05,
-    "print_bbox_mm": [
-      94.0,
-      13.399999618530273,
-      7.5
-    ]
-  },
-  "03_grip_mount_plate": {
-    "original_stl_closed": true,
-    "print_stl_closed": true,
-    "step_stl_bbox_error_mm": 0.009325027465820312,
-    "print_relative_volume_error": 0.00041517917700953285,
-    "print_bbox_mm": [
-      60.0,
-      59.9813523394987,
-      2.0
-    ]
-  },
-  "04_phone_base_adapter": {
-    "original_stl_closed": true,
-    "print_stl_closed": true,
-    "step_stl_bbox_error_mm": 0.009325027465820312,
-    "print_relative_volume_error": 0.00041517917700953285,
-    "print_bbox_mm": [
-      60.0,
-      59.9813523394987,
-      2.0
-    ]
-  },
-  "sampled_envelope_interference_count": 0,
-  "gate_edge_ligament_mm": 0.8,
-  "a3_pdf_pages": 6
+  "aluminum_case": {
+    "assembly_printed_solids": 6,
+    "native_valid_features": 28,
+    "01_Main_Frame": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 3.051757815342171e-06,
+      "print_relative_volume_error": 8.006143869584815e-06
+    },
+    "02_Locking_Gate": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 3.051757815342171e-06,
+      "print_relative_volume_error": 7.1663274360195354e-06
+    },
+    "03_Grip_Connector": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 0.0,
+      "print_relative_volume_error": 1.6734739174423173e-05
+    },
+    "04_Collapsible_Grip": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 0.00124359130859375,
+      "print_relative_volume_error": 4.4366512124189805e-05
+    },
+    "05_Phone_Base": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 0.0,
+      "print_relative_volume_error": 5.29112795457009e-06
+    },
+    "06_TPU_Side_Liner": {
+      "stl_closed": true,
+      "step_original_stl_bbox_error_mm": 0.0,
+      "print_relative_volume_error": 1.87912128465481e-16
+    },
+    "pdf_A3_pages": 10,
+    "assembly_guide_pages": 2,
+    "sampled_interferences": 0
+  }
 }
