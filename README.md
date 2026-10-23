@@ -1,6 +1,21 @@
 # pokemon
 
-## 최신 수정 — 중앙 원형 팝업 연결부
+## 최신 수정 — 빨간 범퍼·검은 완충부 초경량 V02
+
+참고 이미지의 얇은 사각 범퍼를 적용하고, **자석 교체 게이트 + 뒷면 원형 팝업 + 폰 케이스 접착**으로 구성했습니다. B안에는 하중 전달용 뒤쪽 T리브가 있습니다. 실제 CAD로 생성한 예비 시제품이며 실측·실물 시험 전 제작 확정 금지입니다.
+
+![실제 CAD 기반 B안 정면](deliverables/psa_grip_v02/ultralight_revision/B_daily/renders/red_front.png)
+
+- [**최신 파일·제작 설명**](deliverables/psa_grip_v02/ultralight_revision/README_ko.md)
+- [B안 FreeCAD·STEP](deliverables/psa_grip_v02/ultralight_revision/B_daily/CAD) / [출력용 STL](deliverables/psa_grip_v02/ultralight_revision/B_daily/STL_PRINT)
+- [A3 제작 도면 6장 PDF](deliverables/psa_grip_v02/ultralight_revision/B_daily/drawings/Ultralight_A3_Manufacturing.pdf)
+- [A/B/C 무게 비교](deliverables/psa_grip_v02/ultralight_revision/comparison_ko.md) / [검증 보고서](deliverables/psa_grip_v02/ultralight_revision/validation_report_ko.md)
+- [후면](deliverables/psa_grip_v02/ultralight_revision/B_daily/renders/red_rear_open.png) / [접힘](deliverables/psa_grip_v02/ultralight_revision/B_daily/renders/red_folded_phone.png) / [펼침](deliverables/psa_grip_v02/ultralight_revision/B_daily/renders/red_open_phone.png) / [분해](deliverables/psa_grip_v02/ultralight_revision/B_daily/renders/red_rear_exploded.png)
+- [전체 파일 ZIP 다운로드](https://github.com/psh30427-ops/pokemon/raw/refs/heads/main/deliverables/psa_grip_v02/PSA_Grip_Ultralight_Revision.zip)
+
+추가 부품 무게는 A **23.55g**, B **30.20g**, C **37.91g**(팝업8g, CAD 체적·가정 밀도 기준). A는 얇은 리브 강도 우려로 실사용 추천에서 제외합니다. B를 개발 후보로 권장하되, 30g 이하는 팝업 **7.80g 이하**의 부품 선정과 완성품 실측이 필요합니다. 슬랩50g 가정 시 B 총80.20g입니다. 구매 팝업은 미선정 참고 형상이며 기구 STL을 제공하지 않습니다. 자석·접착·강도·피로·낙하는 미검증입니다. 기존 V01·V02는 아래에 보존합니다.
+
+## 이전 수정 — 중앙 원형 팝업 연결부
 
 노출된 두 링크와 회전축 브래킷을 제거하고, 프레임 뒷면 중앙의 원형 연결면 → 상용 원형 팝업 → 원형 접착 베이스로 변경했습니다. 상단 자석 게이트, 카드 앞면 바깥 방향, 폰 케이스 접착 방식은 유지합니다.
 

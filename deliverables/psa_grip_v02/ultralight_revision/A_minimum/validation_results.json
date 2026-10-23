@@ -1,0 +1,243 @@
+{
+  "design": "A_minimum",
+  "specs": {
+    "wall": 1.5,
+    "back": 1.2,
+    "lip_t": 0.9,
+    "lip_w": 1.4,
+    "back_overlap": 1.0,
+    "pad_t": 1.2,
+    "base_d": 42.0,
+    "base_t": 0.0,
+    "rib_w": 2.0,
+    "rib_t": 1.2,
+    "ribs": "horizontal",
+    "pad_len": 18.0,
+    "corner_extra": 0.0
+  },
+  "weights": {
+    "01_Bumper_Frame": {
+      "volume_mm3": 8889.291078553912,
+      "density_g_cm3": 1.27,
+      "quantity": 1,
+      "unit_mass_g": 11.289399669763469,
+      "total_mass_g": 11.289399669763469,
+      "status": "CAD_VOLUME x ASSUMED_DENSITY"
+    },
+    "02_Magnetic_Gate": {
+      "volume_mm3": 1479.8578969741363,
+      "density_g_cm3": 1.27,
+      "quantity": 1,
+      "unit_mass_g": 1.8794195291571532,
+      "total_mass_g": 1.8794195291571532,
+      "status": "CAD_VOLUME x ASSUMED_DENSITY"
+    },
+    "04_TPU_Side_Pad": {
+      "volume_mm3": 86.07809724509617,
+      "density_g_cm3": 1.2,
+      "quantity": 4,
+      "unit_mass_g": 0.1032937166941154,
+      "total_mass_g": 0.4131748667764616,
+      "status": "CAD_VOLUME x ASSUMED_DENSITY"
+    },
+    "05_TPU_Rear_Pad": {
+      "volume_mm3": 15.89269908169872,
+      "density_g_cm3": 1.2,
+      "quantity": 4,
+      "unit_mass_g": 0.019071238898038464,
+      "total_mass_g": 0.07628495559215386,
+      "status": "CAD_VOLUME x ASSUMED_DENSITY"
+    },
+    "06_TPU_Front_Pad": {
+      "volume_mm3": 6.345061929829747,
+      "density_g_cm3": 1.2,
+      "quantity": 4,
+      "unit_mass_g": 0.007614074315795696,
+      "total_mass_g": 0.030456297263182785,
+      "status": "CAD_VOLUME x ASSUMED_DENSITY"
+    },
+    "07_TPU_Inner_Trim_U": {
+      "volume_mm3": 156.92205089618187,
+      "density_g_cm3": 1.2,
+      "quantity": 1,
+      "unit_mass_g": 0.18830646107541826,
+      "total_mass_g": 0.18830646107541826,
+      "status": "CAD_VOLUME x ASSUMED_DENSITY"
+    },
+    "08_TPU_Gate_Trim": {
+      "volume_mm3": 36.336247835752296,
+      "density_g_cm3": 1.2,
+      "quantity": 1,
+      "unit_mass_g": 0.04360349740290275,
+      "total_mass_g": 0.04360349740290275,
+      "status": "CAD_VOLUME x ASSUMED_DENSITY"
+    }
+  },
+  "mass": {
+    "CAD_parts_and_pads_g": 13.920645277030742,
+    "adhesive_g": 1.0411238053996572,
+    "magnets_g": 0.31808625617596653,
+    "epoxy_g": 0.12,
+    "pad_adhesive_g": 0.15,
+    "fixed_excluding_OEM_g": 15.549855338606365,
+    "OEM_popup_nominal_g": 8.0,
+    "additional_nominal_g": 23.549855338606363,
+    "additional_low_g": 21.549855338606363,
+    "additional_high_g": 27.549855338606363,
+    "max_popup_mass_for_30g_g": 14.450144661393635,
+    "with_slab_nominal_g": 73.54985533860636,
+    "with_slab_low_g": 56.54985533860636,
+    "with_slab_high_g": 107.54985533860636,
+    "with_phone_nominal_g": 297.54985533860633,
+    "nominal_target_pass": true,
+    "range_upper_target_pass": true
+  },
+  "printed_checks": {
+    "01_Bumper_Frame": {
+      "valid_single_solid": true,
+      "STL_closed": true,
+      "step_volume_error_mm3": 6.912159733474255e-11,
+      "stl_relative_volume_error": 9.118947695021852e-05,
+      "print_bounds_mm": [
+        14.500000000000014,
+        144.7,
+        85.2
+      ]
+    },
+    "02_Magnetic_Gate": {
+      "valid_single_solid": true,
+      "STL_closed": true,
+      "step_volume_error_mm3": 1.0913936421275139e-11,
+      "stl_relative_volume_error": 9.809466431244794e-07,
+      "print_bounds_mm": [
+        85.2,
+        12.900000000000002,
+        7.200000000000003
+      ]
+    },
+    "04_TPU_Side_Pad": {
+      "valid_single_solid": true,
+      "STL_closed": true,
+      "step_volume_error_mm3": 1.4210854715202004e-14,
+      "stl_relative_volume_error": 5.615999252299875e-06,
+      "print_bounds_mm": [
+        6.0,
+        18.0,
+        0.8000000000000008
+      ]
+    },
+    "05_TPU_Rear_Pad": {
+      "valid_single_solid": true,
+      "STL_closed": true,
+      "step_volume_error_mm3": 0.0,
+      "stl_relative_volume_error": 1.0911223149080299e-05,
+      "print_bounds_mm": [
+        8.0,
+        4.0,
+        0.5
+      ]
+    },
+    "06_TPU_Front_Pad": {
+      "valid_single_solid": true,
+      "STL_closed": true,
+      "step_volume_error_mm3": 0.0,
+      "stl_relative_volume_error": 1.2799421868957201e-05,
+      "print_bounds_mm": [
+        8.0,
+        2.0,
+        0.4
+      ]
+    },
+    "07_TPU_Inner_Trim_U": {
+      "valid_single_solid": true,
+      "STL_closed": true,
+      "step_volume_error_mm3": 3.637978807091713e-12,
+      "stl_relative_volume_error": 1.035852599125923e-05,
+      "print_bounds_mm": [
+        82.0,
+        135.35,
+        0.45
+      ]
+    },
+    "08_TPU_Gate_Trim": {
+      "valid_single_solid": true,
+      "STL_closed": true,
+      "step_volume_error_mm3": 4.227729277772596e-12,
+      "stl_relative_volume_error": 3.111206389596026e-05,
+      "print_bounds_mm": [
+        81.25261839466756,
+        1.5500000000000114,
+        0.45
+      ]
+    }
+  },
+  "sampled_interferences": [],
+  "insertion_interferences": [],
+  "gate_open_interferences": [],
+  "gate_shoulder_blocks_mm3": [
+    9.800000000000255,
+    9.80000000000026
+  ],
+  "closed_gate_payload_escape_block_mm3": 57.59999999999981,
+  "gate_lift_travel_mm": 12.300000000000006,
+  "folded_accessory_thickness_mm": 22.700000000000003,
+  "open_accessory_thickness_mm": 38.7,
+  "frame_only_thickness_mm": 14.5,
+  "payload_assumed_mm": [
+    81.0,
+    136.0,
+    6.0
+  ],
+  "gate_magnet_pair_force_verified": false,
+  "OEM_popup_selected": false,
+  "OEM_mechanism_STL_exported": false,
+  "physical_strength_tests_run": false,
+  "rib_model": {
+    "minimum_section_mm2": 2.4,
+    "weak_axis_section_modulus_mm3": 0.48,
+    "assumed_5g_larger_side_load_N": 10.987200000000001,
+    "moment_40mm_Nm": 0.43948800000000005,
+    "equal_share_bending_bound_MPa": 457.80000000000007,
+    "note": "Crude moment/section bound, not FEA, not a pass. Actual ring/slab contact changes loading."
+  },
+  "center_of_mass_by_extension": {
+    "6.0": {
+      "accessory_with_slab": {
+        "mass_g": 73.54985533860636,
+        "xyz_mm": [
+          -4.146588990971321e-14,
+          2.3108045517240168,
+          3.4759942942516453
+        ]
+      },
+      "with_phone": {
+        "mass_g": 297.5498553386064,
+        "xyz_mm": [
+          -1.0672085496721843e-14,
+          0.5711961792140139,
+          -8.983842789834275
+        ]
+      },
+      "basis": "ASSUMED masses, compressed pad centers approximated; OEM external-envelope centroid proxy"
+    },
+    "22.0": {
+      "accessory_with_slab": {
+        "mass_g": 73.54985533860636,
+        "xyz_mm": [
+          -4.1806146517354293e-14,
+          2.3108045517240168,
+          2.4360785067155657
+        ]
+      },
+      "with_phone": {
+        "mass_g": 297.5498553386064,
+        "xyz_mm": [
+          -1.0756191819816934e-14,
+          0.5711961792140139,
+          -21.28593465800892
+        ]
+      },
+      "basis": "ASSUMED masses, compressed pad centers approximated; OEM external-envelope centroid proxy"
+    }
+  }
+}

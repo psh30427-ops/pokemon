@@ -1,0 +1,83 @@
+parameter,value,unit,source,status
+slab_w,81.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+slab_h,136.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+slab_t,6.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+slab_corner_r,3.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+slab_mass_g,50.0,g,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+slab_mass_low_g,35.0,g,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+slab_mass_high_g,80.0,g,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+phone_w,71.5,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+phone_h,149.6,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+phone_t_with_case,9.75,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+phone_and_case_g,224.0,g,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+side_clearance,0.6,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+rear_pad_compressed,0.4,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+front_pad_compressed,0.3,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+PETG_density,1.27,g/cm3,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+TPU_density,1.2,g/cm3,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+adhesive_density,1.0,g/cm3,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+magnet_density,7.5,g/cm3,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+gate_magnet_d,3.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+gate_magnet_t,1.5,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+gate_magnet_count,4,count,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+magnet_epoxy_g,0.12,g,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+popup_mass_nominal_g,8.0,g,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+popup_mass_low_g,6.0,g,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+popup_mass_high_g,12.0,g,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+popup_upper_d,40.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+popup_lower_d,38.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+popup_closed_h,6.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+popup_open_h,22.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+popup_bond_t,0.2,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+phone_adhesive_t,0.8,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+additional_mass_target_g,30.0,g,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+pad_adhesive_g,0.15,g,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+camera_x,-34.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+camera_y,33.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+camera_w,38.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+camera_h,38.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+camera_bump_t,4.0,mm,Design assumption; NOT measured PSA or selected OEM specification,ASSUMED
+A_minimum.wall,1.5,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.back,1.2,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.lip_t,0.9,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.lip_w,1.4,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.back_overlap,1.0,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.pad_t,1.2,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.base_d,42.0,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.base_t,0.0,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.rib_w,2.0,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.rib_t,1.2,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.ribs,horizontal,configuration,Design starting value,ASSUMED / DESIGN
+A_minimum.pad_len,18.0,mm,Design starting value,ASSUMED / DESIGN
+A_minimum.corner_extra,0.0,mm,Design starting value,ASSUMED / DESIGN
+B_daily.wall,1.8,mm,Design starting value,ASSUMED / DESIGN
+B_daily.back,1.5,mm,Design starting value,ASSUMED / DESIGN
+B_daily.lip_t,1.1,mm,Design starting value,ASSUMED / DESIGN
+B_daily.lip_w,1.6,mm,Design starting value,ASSUMED / DESIGN
+B_daily.back_overlap,1.5,mm,Design starting value,ASSUMED / DESIGN
+B_daily.pad_t,1.5,mm,Design starting value,ASSUMED / DESIGN
+B_daily.base_d,44.0,mm,Design starting value,ASSUMED / DESIGN
+B_daily.base_t,0.0,mm,Design starting value,ASSUMED / DESIGN
+B_daily.rib_w,2.6,mm,Design starting value,ASSUMED / DESIGN
+B_daily.rib_t,1.5,mm,Design starting value,ASSUMED / DESIGN
+B_daily.ribs,diagonal,configuration,Design starting value,ASSUMED / DESIGN
+B_daily.pad_len,24.0,mm,Design starting value,ASSUMED / DESIGN
+B_daily.corner_extra,0.3,mm,Design starting value,ASSUMED / DESIGN
+C_protective.wall,2.0,mm,Design starting value,ASSUMED / DESIGN
+C_protective.back,1.9,mm,Design starting value,ASSUMED / DESIGN
+C_protective.lip_t,1.4,mm,Design starting value,ASSUMED / DESIGN
+C_protective.lip_w,1.8,mm,Design starting value,ASSUMED / DESIGN
+C_protective.back_overlap,2.0,mm,Design starting value,ASSUMED / DESIGN
+C_protective.pad_t,1.9,mm,Design starting value,ASSUMED / DESIGN
+C_protective.base_d,46.0,mm,Design starting value,ASSUMED / DESIGN
+C_protective.base_t,1.6,mm,Design starting value,ASSUMED / DESIGN
+C_protective.rib_w,3.4,mm,Design starting value,ASSUMED / DESIGN
+C_protective.rib_t,1.9,mm,Design starting value,ASSUMED / DESIGN
+C_protective.ribs,diagonal_plus_horizontal,configuration,Design starting value,ASSUMED / DESIGN
+C_protective.pad_len,30.0,mm,Design starting value,ASSUMED / DESIGN
+C_protective.corner_extra,0.8,mm,Design starting value,ASSUMED / DESIGN
+silicone_protector_outer,85 x 140 x 9,mm,User supplied product descriptions or seller image; source URL and tolerance not independently verified,REFERENCE ONLY / NOT SLAB SIZE
+silicone_protector_mass,14,g,User supplied product descriptions or seller image; source URL and tolerance not independently verified,REFERENCE ONLY / NOT SLAB SIZE
+acrylic_slot,137 x 82.5 x 8,mm,User supplied product descriptions or seller image; source URL and tolerance not independently verified,REFERENCE ONLY / NOT SLAB SIZE
+storage_box,340 x 250 x 16 / 35 slabs,mm/count,User supplied product descriptions or seller image; source URL and tolerance not independently verified,REFERENCE ONLY / NOT SLAB SIZE
+aluminum_holder_outer,86 x 142 x 11,mm,User supplied product descriptions or seller image; source URL and tolerance not independently verified,REFERENCE ONLY / NOT SLAB SIZE

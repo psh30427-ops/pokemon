@@ -1,0 +1,13 @@
+{
+  "built_utc": "2026-10-23T05:13:10.975931+00:00",
+  "geometry_kernel": "FreeCAD 1.0 / OpenCASCADE",
+  "actual_CAD_runs": "generate_ultralight.py --skip-render; exit 0",
+  "actual_render_run": "blender -b -t 4 --python render_blender.py; exit 0",
+  "independent_file_checks": 169,
+  "failed_file_checks": 0,
+  "A3_pdf_count": 4,
+  "A3_pdf_pages": 19,
+  "CAD_based_render_count": 8,
+  "physical_tests_run": false,
+  "B_30g_mass_goal_at_8g_popup_passed": false
+}

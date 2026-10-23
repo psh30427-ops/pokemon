@@ -1,0 +1,1030 @@
+{
+  "checks": [
+    {
+      "check": "A_minimum/01_Bumper_Frame/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/01_Bumper_Frame/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/01_Bumper_Frame/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/01_Bumper_Frame/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/01_Bumper_Frame/STL_floor_mm",
+      "passed": true,
+      "details": [
+        14.5,
+        144.6999969482422,
+        85.19999694824219
+      ]
+    },
+    {
+      "check": "A_minimum/01_Bumper_Frame/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/02_Magnetic_Gate/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/02_Magnetic_Gate/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/02_Magnetic_Gate/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/02_Magnetic_Gate/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/02_Magnetic_Gate/STL_floor_mm",
+      "passed": true,
+      "details": [
+        85.19999694824219,
+        12.899999618530273,
+        7.199999809265137
+      ]
+    },
+    {
+      "check": "A_minimum/02_Magnetic_Gate/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/04_TPU_Side_Pad/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/04_TPU_Side_Pad/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/04_TPU_Side_Pad/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/04_TPU_Side_Pad/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/04_TPU_Side_Pad/STL_floor_mm",
+      "passed": true,
+      "details": [
+        6.0,
+        18.0,
+        0.800000011920929
+      ]
+    },
+    {
+      "check": "A_minimum/04_TPU_Side_Pad/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/05_TPU_Rear_Pad/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/05_TPU_Rear_Pad/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/05_TPU_Rear_Pad/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/05_TPU_Rear_Pad/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/05_TPU_Rear_Pad/STL_floor_mm",
+      "passed": true,
+      "details": [
+        8.0,
+        4.0,
+        0.5
+      ]
+    },
+    {
+      "check": "A_minimum/05_TPU_Rear_Pad/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/06_TPU_Front_Pad/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/06_TPU_Front_Pad/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/06_TPU_Front_Pad/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/06_TPU_Front_Pad/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/06_TPU_Front_Pad/STL_floor_mm",
+      "passed": true,
+      "details": [
+        8.0,
+        2.0,
+        0.4000000059604645
+      ]
+    },
+    {
+      "check": "A_minimum/06_TPU_Front_Pad/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/07_TPU_Inner_Trim_U/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/07_TPU_Inner_Trim_U/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/07_TPU_Inner_Trim_U/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/07_TPU_Inner_Trim_U/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/07_TPU_Inner_Trim_U/STL_floor_mm",
+      "passed": true,
+      "details": [
+        82.0,
+        135.35000610351562,
+        0.44999998807907104
+      ]
+    },
+    {
+      "check": "A_minimum/07_TPU_Inner_Trim_U/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/08_TPU_Gate_Trim/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/08_TPU_Gate_Trim/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/08_TPU_Gate_Trim/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/08_TPU_Gate_Trim/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/08_TPU_Gate_Trim/STL_floor_mm",
+      "passed": true,
+      "details": [
+        81.25261688232422,
+        1.5499999523162842,
+        0.44999998807907104
+      ]
+    },
+    {
+      "check": "A_minimum/08_TPU_Gate_Trim/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/BOM_mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/BOM_quantities",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/Printed_Assembly.step/valid",
+      "passed": true,
+      "details": 4
+    },
+    {
+      "check": "A_minimum/Assembly_With_OEM_Reference.step/valid",
+      "passed": true,
+      "details": 11
+    },
+    {
+      "check": "A_minimum/FCStd_reopen",
+      "passed": true,
+      "details": 14
+    },
+    {
+      "check": "A_minimum/collision_results",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/CG_mass_6.0",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/CG_mass_22.0",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/01_Bumper_Frame/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/01_Bumper_Frame/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/01_Bumper_Frame/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/01_Bumper_Frame/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/01_Bumper_Frame/STL_floor_mm",
+      "passed": true,
+      "details": [
+        17.600000381469727,
+        145.0,
+        85.80000305175781
+      ]
+    },
+    {
+      "check": "B_daily/01_Bumper_Frame/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/02_Magnetic_Gate/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/02_Magnetic_Gate/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/02_Magnetic_Gate/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/02_Magnetic_Gate/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/02_Magnetic_Gate/STL_floor_mm",
+      "passed": true,
+      "details": [
+        85.80000305175781,
+        12.899999618530273,
+        7.199999809265137
+      ]
+    },
+    {
+      "check": "B_daily/02_Magnetic_Gate/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/04_TPU_Side_Pad/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/04_TPU_Side_Pad/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/04_TPU_Side_Pad/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/04_TPU_Side_Pad/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/04_TPU_Side_Pad/STL_floor_mm",
+      "passed": true,
+      "details": [
+        6.0,
+        24.0,
+        0.800000011920929
+      ]
+    },
+    {
+      "check": "B_daily/04_TPU_Side_Pad/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/05_TPU_Rear_Pad/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/05_TPU_Rear_Pad/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/05_TPU_Rear_Pad/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/05_TPU_Rear_Pad/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/05_TPU_Rear_Pad/STL_floor_mm",
+      "passed": true,
+      "details": [
+        8.0,
+        4.0,
+        0.5
+      ]
+    },
+    {
+      "check": "B_daily/05_TPU_Rear_Pad/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/06_TPU_Front_Pad/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/06_TPU_Front_Pad/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/06_TPU_Front_Pad/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/06_TPU_Front_Pad/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/06_TPU_Front_Pad/STL_floor_mm",
+      "passed": true,
+      "details": [
+        8.0,
+        2.0,
+        0.4000000059604645
+      ]
+    },
+    {
+      "check": "B_daily/06_TPU_Front_Pad/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/07_TPU_Inner_Trim_U/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/07_TPU_Inner_Trim_U/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/07_TPU_Inner_Trim_U/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/07_TPU_Inner_Trim_U/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/07_TPU_Inner_Trim_U/STL_floor_mm",
+      "passed": true,
+      "details": [
+        82.0,
+        135.35000610351562,
+        0.44999998807907104
+      ]
+    },
+    {
+      "check": "B_daily/07_TPU_Inner_Trim_U/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/08_TPU_Gate_Trim/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/08_TPU_Gate_Trim/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/08_TPU_Gate_Trim/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/08_TPU_Gate_Trim/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/08_TPU_Gate_Trim/STL_floor_mm",
+      "passed": true,
+      "details": [
+        81.25261688232422,
+        1.5499999523162842,
+        0.44999998807907104
+      ]
+    },
+    {
+      "check": "B_daily/08_TPU_Gate_Trim/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/BOM_mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/BOM_quantities",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/Printed_Assembly.step/valid",
+      "passed": true,
+      "details": 4
+    },
+    {
+      "check": "B_daily/Assembly_With_OEM_Reference.step/valid",
+      "passed": true,
+      "details": 11
+    },
+    {
+      "check": "B_daily/FCStd_reopen",
+      "passed": true,
+      "details": 14
+    },
+    {
+      "check": "B_daily/collision_results",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/CG_mass_6.0",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/CG_mass_22.0",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/01_Bumper_Frame/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/01_Bumper_Frame/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/01_Bumper_Frame/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/01_Bumper_Frame/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/01_Bumper_Frame/STL_floor_mm",
+      "passed": true,
+      "details": [
+        15.899999618530273,
+        145.1999969482422,
+        86.19999694824219
+      ]
+    },
+    {
+      "check": "C_protective/01_Bumper_Frame/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/02_Magnetic_Gate/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/02_Magnetic_Gate/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/02_Magnetic_Gate/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/02_Magnetic_Gate/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/02_Magnetic_Gate/STL_floor_mm",
+      "passed": true,
+      "details": [
+        86.19999694824219,
+        12.899999618530273,
+        7.199999809265137
+      ]
+    },
+    {
+      "check": "C_protective/02_Magnetic_Gate/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/03_Adhesive_Base/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/03_Adhesive_Base/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/03_Adhesive_Base/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/03_Adhesive_Base/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/03_Adhesive_Base/STL_floor_mm",
+      "passed": true,
+      "details": [
+        46.0,
+        45.98570244340226,
+        1.600000023841858
+      ]
+    },
+    {
+      "check": "C_protective/03_Adhesive_Base/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/04_TPU_Side_Pad/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/04_TPU_Side_Pad/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/04_TPU_Side_Pad/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/04_TPU_Side_Pad/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/04_TPU_Side_Pad/STL_floor_mm",
+      "passed": true,
+      "details": [
+        6.0,
+        30.0,
+        0.800000011920929
+      ]
+    },
+    {
+      "check": "C_protective/04_TPU_Side_Pad/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/05_TPU_Rear_Pad/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/05_TPU_Rear_Pad/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/05_TPU_Rear_Pad/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/05_TPU_Rear_Pad/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/05_TPU_Rear_Pad/STL_floor_mm",
+      "passed": true,
+      "details": [
+        8.0,
+        4.0,
+        0.5
+      ]
+    },
+    {
+      "check": "C_protective/05_TPU_Rear_Pad/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/06_TPU_Front_Pad/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/06_TPU_Front_Pad/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/06_TPU_Front_Pad/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/06_TPU_Front_Pad/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/06_TPU_Front_Pad/STL_floor_mm",
+      "passed": true,
+      "details": [
+        8.0,
+        2.0,
+        0.4000000059604645
+      ]
+    },
+    {
+      "check": "C_protective/06_TPU_Front_Pad/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/07_TPU_Inner_Trim_U/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/07_TPU_Inner_Trim_U/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/07_TPU_Inner_Trim_U/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/07_TPU_Inner_Trim_U/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/07_TPU_Inner_Trim_U/STL_floor_mm",
+      "passed": true,
+      "details": [
+        82.0,
+        135.35000610351562,
+        0.44999998807907104
+      ]
+    },
+    {
+      "check": "C_protective/07_TPU_Inner_Trim_U/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/08_TPU_Gate_Trim/solid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/08_TPU_Gate_Trim/STEP_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/08_TPU_Gate_Trim/STL_closed_positive",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/08_TPU_Gate_Trim/STL_volume",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/08_TPU_Gate_Trim/STL_floor_mm",
+      "passed": true,
+      "details": [
+        81.25261688232422,
+        1.5499999523162842,
+        0.44999998807907104
+      ]
+    },
+    {
+      "check": "C_protective/08_TPU_Gate_Trim/mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/BOM_mass",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/BOM_quantities",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/Printed_Assembly.step/valid",
+      "passed": true,
+      "details": 5
+    },
+    {
+      "check": "C_protective/Assembly_With_OEM_Reference.step/valid",
+      "passed": true,
+      "details": 13
+    },
+    {
+      "check": "C_protective/FCStd_reopen",
+      "passed": true,
+      "details": 16
+    },
+    {
+      "check": "C_protective/collision_results",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/CG_mass_6.0",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/CG_mass_22.0",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Comparison_A3.pdf/pages",
+      "passed": true,
+      "details": [
+        "Title:           untitled",
+        "Subject:         unspecified",
+        "Keywords:        ",
+        "Author:          anonymous",
+        "Creator:         ReportLab PDF Library - www.reportlab.com",
+        "Producer:        ReportLab PDF Library - www.reportlab.com",
+        "CreationDate:    Fri Oct 23 05:12:12 2026 UTC",
+        "ModDate:         Fri Oct 23 05:12:12 2026 UTC",
+        "Custom Metadata: no",
+        "Metadata Stream: no",
+        "Tagged:          no",
+        "UserProperties:  no",
+        "Suspects:        no",
+        "Form:            none",
+        "JavaScript:      no",
+        "Pages:           1",
+        "Encrypted:       no",
+        "Page size:       1190.55 x 841.89 pts (A3)",
+        "Page rot:        0",
+        "File size:       3707 bytes",
+        "Optimized:       no",
+        "PDF version:     1.3"
+      ]
+    },
+    {
+      "check": "Comparison_A3.pdf/A3",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Comparison_A3.pdf/warning",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/drawings/Ultralight_A3_Manufacturing.pdf/pages",
+      "passed": true,
+      "details": [
+        "Title:           untitled",
+        "Subject:         unspecified",
+        "Keywords:        ",
+        "Author:          anonymous",
+        "Creator:         ReportLab PDF Library - www.reportlab.com",
+        "Producer:        ReportLab PDF Library - www.reportlab.com",
+        "CreationDate:    Fri Oct 23 05:12:06 2026 UTC",
+        "ModDate:         Fri Oct 23 05:12:06 2026 UTC",
+        "Custom Metadata: no",
+        "Metadata Stream: no",
+        "Tagged:          no",
+        "UserProperties:  no",
+        "Suspects:        no",
+        "Form:            none",
+        "JavaScript:      no",
+        "Pages:           6",
+        "Encrypted:       no",
+        "Page size:       1190.55 x 841.89 pts (A3)",
+        "Page rot:        0",
+        "File size:       53585 bytes",
+        "Optimized:       no",
+        "PDF version:     1.3"
+      ]
+    },
+    {
+      "check": "B_daily/drawings/Ultralight_A3_Manufacturing.pdf/A3",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "B_daily/drawings/Ultralight_A3_Manufacturing.pdf/warning",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/drawings/Ultralight_A3_Manufacturing.pdf/pages",
+      "passed": true,
+      "details": [
+        "Title:           untitled",
+        "Subject:         unspecified",
+        "Keywords:        ",
+        "Author:          anonymous",
+        "Creator:         ReportLab PDF Library - www.reportlab.com",
+        "Producer:        ReportLab PDF Library - www.reportlab.com",
+        "CreationDate:    Fri Oct 23 05:12:12 2026 UTC",
+        "ModDate:         Fri Oct 23 05:12:12 2026 UTC",
+        "Custom Metadata: no",
+        "Metadata Stream: no",
+        "Tagged:          no",
+        "UserProperties:  no",
+        "Suspects:        no",
+        "Form:            none",
+        "JavaScript:      no",
+        "Pages:           6",
+        "Encrypted:       no",
+        "Page size:       1190.55 x 841.89 pts (A3)",
+        "Page rot:        0",
+        "File size:       48567 bytes",
+        "Optimized:       no",
+        "PDF version:     1.3"
+      ]
+    },
+    {
+      "check": "C_protective/drawings/Ultralight_A3_Manufacturing.pdf/A3",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "C_protective/drawings/Ultralight_A3_Manufacturing.pdf/warning",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/drawings/Ultralight_A3_Manufacturing.pdf/pages",
+      "passed": true,
+      "details": [
+        "Title:           untitled",
+        "Subject:         unspecified",
+        "Keywords:        ",
+        "Author:          anonymous",
+        "Creator:         ReportLab PDF Library - www.reportlab.com",
+        "Producer:        ReportLab PDF Library - www.reportlab.com",
+        "CreationDate:    Fri Oct 23 05:11:59 2026 UTC",
+        "ModDate:         Fri Oct 23 05:11:59 2026 UTC",
+        "Custom Metadata: no",
+        "Metadata Stream: no",
+        "Tagged:          no",
+        "UserProperties:  no",
+        "Suspects:        no",
+        "Form:            none",
+        "JavaScript:      no",
+        "Pages:           6",
+        "Encrypted:       no",
+        "Page size:       1190.55 x 841.89 pts (A3)",
+        "Page rot:        0",
+        "File size:       47072 bytes",
+        "Optimized:       no",
+        "PDF version:     1.3"
+      ]
+    },
+    {
+      "check": "A_minimum/drawings/Ultralight_A3_Manufacturing.pdf/A3",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "A_minimum/drawings/Ultralight_A3_Manufacturing.pdf/warning",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "V01_and_prior_V02_preserved",
+      "passed": true,
+      "details": null
+    }
+  ],
+  "failures": []
+}

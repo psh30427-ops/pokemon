@@ -1,0 +1,47 @@
+{
+  "A_minimum": {
+    "wall": 1.5,
+    "back": 1.2,
+    "lip_t": 0.9,
+    "lip_w": 1.4,
+    "back_overlap": 1.0,
+    "pad_t": 1.2,
+    "base_d": 42.0,
+    "base_t": 0.0,
+    "rib_w": 2.0,
+    "rib_t": 1.2,
+    "ribs": "horizontal",
+    "pad_len": 18.0,
+    "corner_extra": 0.0
+  },
+  "B_daily": {
+    "wall": 1.8,
+    "back": 1.5,
+    "lip_t": 1.1,
+    "lip_w": 1.6,
+    "back_overlap": 1.5,
+    "pad_t": 1.5,
+    "base_d": 44.0,
+    "base_t": 0.0,
+    "rib_w": 2.6,
+    "rib_t": 1.5,
+    "ribs": "diagonal",
+    "pad_len": 24.0,
+    "corner_extra": 0.3
+  },
+  "C_protective": {
+    "wall": 2.0,
+    "back": 1.9,
+    "lip_t": 1.4,
+    "lip_w": 1.8,
+    "back_overlap": 2.0,
+    "pad_t": 1.9,
+    "base_d": 46.0,
+    "base_t": 1.6,
+    "rib_w": 3.4,
+    "rib_t": 1.9,
+    "ribs": "diagonal_plus_horizontal",
+    "pad_len": 30.0,
+    "corner_extra": 0.8
+  }
+}
